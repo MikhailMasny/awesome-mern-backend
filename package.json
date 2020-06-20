@@ -4,6 +4,8 @@
   "description": "Awesome MERN app (Backend)",
   "main": "src/app.js",
   "scripts": {
+    "lint": "eslint .",
+    "lint-fix": "eslint . --fix",
     "start": "nodemon src/app.js"
   },
   "repository": {
@@ -31,5 +33,10 @@
     "mongoose": "^5.9.19",
     "nodemon": "^2.0.4",
     "shortid": "^2.2.15"
+  },
+  "devDependencies": {
+    "eslint": "^7.2.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.21.2"
   }
 }

@@ -10,4 +10,7 @@ npm i jsonwebtoken
 npm i mongoose
 npm i nodemon
 npm i shortid
+npm install --save-dev eslint
+./node_modules/.bin/eslint --init
+npx install-peerdeps --dev eslint-config-airbnb-base
 `
