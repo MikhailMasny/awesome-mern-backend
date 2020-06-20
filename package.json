@@ -1,0 +1,35 @@
+{
+  "name": "awesome-mern-backend",
+  "version": "1.0.0",
+  "description": "Awesome MERN app (Backend)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MikhailMasny/awesome-mern-backend.git"
+  },
+  "keywords": [
+    "mern",
+    "mongoDB",
+    "express.js",
+    "node.js"
+  ],
+  "author": "Mikhail M.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MikhailMasny/awesome-mern-backend/issues"
+  },
+  "homepage": "https://github.com/MikhailMasny/awesome-mern-backend#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-validator": "^6.5.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.9.19",
+    "nodemon": "^2.0.4",
+    "shortid": "^2.2.15"
+  }
+}
