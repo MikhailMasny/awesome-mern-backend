@@ -1,0 +1,23 @@
+{
+    "app": {
+        "start": "App has been started on port",
+        "error": "Server error:"
+    },
+    "redirect": {
+        "notFound": "The requested link was not found"
+    },
+    "auth": {
+        "incorrectEmail": "Incorrect email",
+        "incorrectPassword": "Input password",
+        "incorrectData": "Incorrect data",
+        "incorrectUserOrPassword": "User or password incorrect",
+        "userNotFound": "User not found",
+        "userAlreadyExist": "User already exist",
+        "userCreated": "User created",
+        "userUnauthorized": "Unauthorized user"
+    },
+    "common": {
+        "log": "An error has occurred:",
+        "error": "An unexpected server error has occurred.."
+    }
+}

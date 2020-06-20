@@ -13,4 +13,5 @@ npm i shortid
 npm install --save-dev eslint
 ./node_modules/.bin/eslint --init
 npx install-peerdeps --dev eslint-config-airbnb-base
+npm i config
 `
